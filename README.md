@@ -40,7 +40,7 @@ The project provides a balanced perspective by discussing how social media can s
 
 ---
 
-## 📊 Research Methodology
+## 📊 Methodology/Approach
 
 The study was conducted using:
 
