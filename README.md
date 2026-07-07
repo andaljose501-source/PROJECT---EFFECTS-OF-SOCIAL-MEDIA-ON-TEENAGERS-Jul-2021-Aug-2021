@@ -82,11 +82,29 @@ The study was conducted using:
 - Presentation of Findings
 
 ---
+## 💻 Technologies & Tools
 
-## 📚 Conclusion
-
-Social media is a powerful tool that offers significant educational, social, and creative opportunities for teenagers. However, without responsible usage and appropriate safeguards, it can also contribute to mental health challenges and negative behavioral outcomes. This study highlights the importance of balancing social media usage through education, awareness, and digital responsibility to maximize its benefits while minimizing potential risks.
+- Microsoft Word – Research documentation and report preparation
+- Microsoft PowerPoint – Presentation development and findings visualization
+- Microsoft Excel – Data organization and analysis
+- Google Scholar – Academic literature and research sources
+- Academic Journals & Research Databases – Literature review and evidence collection
 
 ---
+
+## 📚 Learning Outcomes
+
+This project enhanced my ability to conduct structured academic research, analyze social and behavioral trends, and evaluate the impact of technology on society. Through this study, I developed stronger skills in critical thinking, literature review, data interpretation, and presenting research findings effectively.
+
+The project also provided valuable insights into the importance of digital responsibility, ethical technology usage, and creating awareness around the positive and negative impacts of social media on younger generations.
+Social media is a powerful tool that offers significant educational, social, and creative opportunities for teenagers. However, without responsible usage and appropriate safeguards, it can also contribute to mental health challenges and negative behavioral outcomes. This study highlights the importance of balancing social media usage through education, awareness, and digital responsibility to maximize its benefits while minimizing potential risks.
+
+
+---
+
+## 👨‍💼 Author
+
+**Andal Jose**  
+MBA in Business Analytics 
 
 *Academic Project completed as part of coursework at Monroe College.*
